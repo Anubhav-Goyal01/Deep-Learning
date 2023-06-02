@@ -1,3 +1,3 @@
 # Deep-Learning
 
-This repository contains all the Deep learning work which I have done and will be doing in the future.
+This repo contains some of the colab-notebooks of the course i did on deep learning from One-Fourth-Labs
